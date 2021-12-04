@@ -1,0 +1,330 @@
+.mainBox{
+    width: 69.5rem;
+    height: 69.5rem;
+    margin: 0 auto;
+    background-image: url("https://www.dropbox.com/s/db0h4dwpi0ec95y/bg.png?dl=1");
+    background-size: auto 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    position:relative;
+}
+.mainBox .boxInfo{
+    position: absolute;
+    width: 8rem;
+    height: 8rem;
+}
+.mainBox a:nth-child(1) .boxInfo{
+    top: 4rem;
+    left: 30.9rem;
+}
+.mainBox a:nth-child(2) .boxInfo{
+    top: 5.15rem;
+    left: 39.85rem;
+}
+.mainBox a:nth-child(3) .boxInfo{
+    top: 9.7rem;
+    left: 47.68rem;
+}
+.mainBox a:nth-child(4) .boxInfo{
+    top: 15.98rem;
+    left: 54.2rem;
+}
+.mainBox a:nth-child(5) .boxInfo{
+    top: 24.12rem;
+    left: 57.45rem;
+}
+.mainBox a:nth-child(6) .boxInfo{
+    top: 33.36rem;
+    left: 58.68rem;
+}
+.mainBox a:nth-child(7) .boxInfo{
+    top: 42rem;
+    left: 56.45rem;
+}
+.mainBox a:nth-child(8) .boxInfo{
+    top: 49.9rem;
+    left: 51.98rem;
+}
+.mainBox a:nth-child(9) .boxInfo{
+    top: 54.84rem;
+    left: 44.3rem;
+}
+.mainBox a:nth-child(10) .boxInfo{
+    top: 57.42rem;
+    left: 35.8rem;
+}
+.mainBox a:nth-child(11) .boxInfo{
+    top: 57.55rem;
+    left: 26.6rem;
+}
+.mainBox a:nth-child(12) .boxInfo{
+    top: 54.83rem;
+    left: 17.76rem;
+}
+.mainBox a:nth-child(13) .boxInfo{
+    top: 49.9rem;
+    left: 10.38rem;
+}
+.mainBox a:nth-child(14) .boxInfo{
+    top: 42.53rem;
+    left: 5.28rem;
+}
+.mainBox a:nth-child(15) .boxInfo{
+    top: 33.55rem;
+    left: 2.85rem;
+}
+.mainBox a:nth-child(16) .boxInfo{
+    top: 24.62rem;
+    left: 4.1rem;
+}
+.mainBox a:nth-child(17) .boxInfo{
+    top: 15.98rem;
+    left: 7.8rem;
+}
+.mainBox a:nth-child(18) .boxInfo{
+    top: 9.2rem;
+    left: 13.8rem;
+}
+.mainBox a:nth-child(19) .boxInfo{
+    top: 5.16rem;
+    left: 21.95rem;
+}
+
+.mainBox a .boxInfo:hover img{ 
+    transition: all 0.2s linear;
+	-moz-transition: all 0.2s linear;
+	-webkit-transition: all 0.2s linear;
+	-o-transition: all 0.2s linear;
+    transform-origin:center center;
+	-ms-transform-origin:center center; 	
+	-moz-transform-origin:center center;	
+	-webkit-transform-origin:center center;
+	-o-transform-origin:center center; 
+    transform:scale(1.1);
+	-ms-transform:scale(1.1); 	
+	-moz-transform:scale(1.1); 	
+	-webkit-transform:scale(1.1); 
+	-o-transform:scale(1.1);
+}
+.mainBox a:nth-child(1) .boxInfo img{
+    width: 6.3rem;
+    margin: 1.4rem auto 0;
+}
+.mainBox a:nth-child(2) .boxInfo img{
+    width: 5.56rem;
+    margin: 0.25rem auto 0;
+}
+.mainBox a:nth-child(3) .boxInfo img{
+    width: 5.84rem;
+    margin: 1.25rem auto 0;
+}
+.mainBox a:nth-child(4) .boxInfo img{
+    width: 5.5rem;
+    margin: 1rem auto 0;
+}
+.mainBox a:nth-child(5) .boxInfo img{
+    width: 5.4rem;
+    margin: 0.9rem auto 0;
+}
+.mainBox a:nth-child(6) .boxInfo img{
+    width: 6.44rem;
+    margin: 0.9rem auto 0;
+}
+.mainBox a:nth-child(7) .boxInfo img{
+    width: 5.86rem;
+    margin: 0 auto;
+}
+.mainBox a:nth-child(8) .boxInfo img{
+    width: 4.96rem;
+    margin: 0.8rem auto 0;
+}
+.mainBox a:nth-child(9) .boxInfo img{
+    width:5.9rem;
+    margin: 1.6rem auto 0;
+}
+.mainBox a:nth-child(10) .boxInfo img{
+    width:6.36rem;
+    margin: 1.6rem auto 0;
+}
+.mainBox a:nth-child(11) .boxInfo img{
+    width:5.36rem;
+    margin: 1.6rem auto 0;
+}
+.mainBox a:nth-child(12) .boxInfo img{
+    width:6.16rem;
+    margin: 0.9rem auto 0;
+}
+.mainBox a:nth-child(13) .boxInfo img{
+    width:5.13rem;
+    margin: 0.9rem auto 0;
+}
+.mainBox a:nth-child(14) .boxInfo img{
+    width:5.5rem;
+    margin: 0.6rem auto 0;
+}
+.mainBox a:nth-child(15) .boxInfo img{
+    width:5.6rem;
+    margin: 0.6rem auto 0;
+}
+.mainBox a:nth-child(16) .boxInfo img{
+    width:5.6rem;
+    margin: 0.6rem auto 0;
+}
+.mainBox a:nth-child(17) .boxInfo img{
+    width:6rem;
+    margin:-1rem auto 0;
+}
+.mainBox a:nth-child(18) .boxInfo img{
+    width:5.53rem;
+    margin: -0.9rem auto 0;
+}
+.mainBox a:nth-child(19) .boxInfo img{
+    width:6.06rem;
+    margin: 2.3rem auto 0;
+}
+
+.mainBox .boxInfo .name{
+    position: absolute;
+    font-size: 2rem;
+    color:#333;
+    line-height: 3rem;
+    font-weight: bold;
+    display: none;
+}
+.mainBox a .boxInfo:hover .name{
+    display: block;
+}
+.mainBox a:nth-child(1) .boxInfo .name{
+    left: -50%;
+    top: -3.4rem;
+    width: 200%;
+    text-align: center;
+    color:#ac77a2;
+}
+.mainBox a:nth-child(2) .boxInfo .name{
+    left: 5.2rem;
+    width: 200%;
+    top: -3.4rem;
+    text-align: left;
+    color:#9a5c35;
+}
+.mainBox a:nth-child(3) .boxInfo .name{
+    left: 7.4rem;
+    width: 200%;
+    top: -2.2rem;
+    text-align: left;
+    color:#826865;
+}
+.mainBox a:nth-child(4) .boxInfo .name{
+    left: 9.5rem;
+    width: 200%;
+    top: 1.5rem;
+    text-align: left;
+    color:#a2971b;
+}
+.mainBox a:nth-child(5) .boxInfo .name{
+    left: 9.5rem;
+    width: 200%;
+    top: 2rem;
+    text-align: left;
+    color:#74839e;
+}
+.mainBox a:nth-child(6) .boxInfo .name{
+    left: 9.5rem;
+    width: 200%;
+    top: 2.6rem;
+    text-align: left;
+    color:#eeb13f;
+}
+.mainBox a:nth-child(7) .boxInfo .name{
+    left: 9.5rem;
+    width: 200%;
+    top: 3.2rem;
+    text-align: left;
+    color:#60a2af;
+}
+.mainBox a:nth-child(8) .boxInfo .name{
+    left: 8rem;
+    width: 200%;
+    top: 7rem;
+    text-align: left;
+    color:#bb9a8c;
+}
+.mainBox a:nth-child(9) .boxInfo .name{
+    left: 4.5rem;
+    width: 200%;
+    top: 8.6rem;
+    text-align: left;
+    color:#da8b43;
+}
+.mainBox a:nth-child(10) .boxInfo .name{
+    left: 1.5rem;
+    width: 200%;
+    top: 8.6rem;
+    text-align: left;
+    color:#a5a43c;
+}
+.mainBox a:nth-child(11) .boxInfo .name{
+    left: 1.4rem;
+    width: 200%;
+    top: 8.6rem;
+    text-align: left;
+    color:#cca88f;
+}
+.mainBox a:nth-child(12) .boxInfo .name{
+    left: -12rem;
+    width: 200%;
+    top:8.6rem;
+    text-align: left;
+    color:#784c4b;
+}
+.mainBox a:nth-child(13) .boxInfo .name{
+    left: -6.8rem;
+    width: 200%;
+    top: 5rem;
+    text-align: left;
+    color:#a85d2b;
+}
+.mainBox a:nth-child(14) .boxInfo .name{
+    left: -9.2rem;
+    width: 200%;
+    top: 3.2rem;
+    text-align: left;
+    color:#706443;
+}
+.mainBox a:nth-child(15) .boxInfo .name{
+    left: -8.2rem;
+    width: 200%;
+    top: 2.6rem;
+    text-align: left;
+    color:#8a4b44;
+}
+.mainBox a:nth-child(16) .boxInfo .name{
+    left: -8.4rem;
+    width: 200%;
+    top: 2.4rem;
+    text-align: left;
+    color:#aa8973;
+}
+.mainBox a:nth-child(17) .boxInfo .name{
+    left: -17.5rem;
+    width: 200%;
+    top: -0.5rem;
+    text-align: right;
+    line-height: 1.5rem;
+    color:#ad4846;
+}
+.mainBox a:nth-child(18) .boxInfo .name{
+    left: -5.6rem;
+    width: 200%;
+    top: -2.2rem;
+    text-align: left;
+    color:#d97e3f;
+}
+.mainBox a:nth-child(19) .boxInfo .name{
+    left: -0.2rem;
+    width: 200%;
+    top: -3.4rem;
+    text-align: left;
+    color:#7a8049;
+}
